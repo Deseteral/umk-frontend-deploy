@@ -13,7 +13,6 @@ body {
 .text-container {
   position: absolute;
   top: 320px;
-  text-align: center;
   transform: rotate(15deg);
 }
 
